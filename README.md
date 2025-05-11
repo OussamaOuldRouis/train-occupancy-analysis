@@ -23,14 +23,7 @@ You can access and run the project in Google Colab using the following link:
 3. Upload the required datasets to your Colab environment
 4. Follow the notebook cells to run the analysis
 
-## Dependencies
-The project requires the following Python libraries:
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-- statsmodels
+
 
 ## Features
 - Time series data preprocessing
@@ -38,12 +31,6 @@ The project requires the following Python libraries:
 - Model implementation and evaluation
 - Visualization of results
 - Forecasting and prediction
-
-## Contributing
-Feel free to submit issues and enhancement requests.
-
-## License
-This project is part of a Time Series Analysis course assignment.
 
 ## Contact
 For any questions or suggestions, please open an issue in the repository. 
